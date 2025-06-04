@@ -18,14 +18,14 @@ output_pins = ["PIN_7", "PIN_6", "PIN_5"]
 rows = 4
 cols = 3
 layers = 1
-keymap = [
+keymap =
     [
         ["A", "B", "C"],
         ["D", "E", "F"],
         ["G", "H", "I"],
         ["J", "K", "L"]
     ]
-]
+
 
 [light]
 # All light pins are high-active by default, uncomment if you want it to be low-active
